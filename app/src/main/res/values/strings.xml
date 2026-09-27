@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A4_231A010375</string>
+    <string name="title">Lab A4 – Máy tính &amp; BMI</string>
+    <string name="student">Võ Thành Ân – MSSV 231A010375</string>
+    <string name="section_calc">1. Máy tính bốn phép toán</string>
+    <string name="section_bmi">2. Tính chỉ số BMI</string>
+    <string name="hint_a">Số thứ nhất</string>
+    <string name="hint_b">Số thứ hai</string>
+    <string name="op_add">+</string>
+    <string name="op_sub">−</string>
+    <string name="op_mul">×</string>
+    <string name="op_div">÷</string>
+    <string name="clear">Xóa trắng</string>
+    <string name="result_placeholder">Kết quả: —</string>
+    <string name="hint_weight">Cân nặng (kg)</string>
+    <string name="hint_height">Chiều cao (m hoặc cm)</string>
+    <string name="calc_bmi">Tính BMI</string>
+    <string name="bmi_under">Thiếu cân</string>
+    <string name="bmi_normal">Bình thường</string>
+    <string name="bmi_over">Thừa cân</string>
+    <string name="bmi_obese">Béo phì</string>
+    <string name="err_empty">Không được để trống</string>
+    <string name="err_not_number">Vui lòng nhập đúng định dạng số</string>
+    <string name="err_divide_zero">Không thể chia cho 0</string>
+    <string name="err_positive">Cân nặng và chiều cao phải lớn hơn 0</string>
+</resources>
